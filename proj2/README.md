@@ -2,7 +2,7 @@
 |-----|---------|
 |Workload is spread over the whole team (one team member is often Xtimes more productive than the others... 
 but nevertheless, here is a track record that everyone is contributing a lot)|https://github.com/SurajRKU/SE_2023_GRP12/graphs/contributors|
-|Number of commits|in GH|
+|Number of commits|https://github.com/SurajRKU/SE_2023_GRP12/graphs/commit-activity|
 |Number of commits: by different people|https://github.com/SurajRKU/SE_2023_GRP12/graphs/contributors|
 |Issues reports: there are **many**|
 |Issues are being closed|https://github.com/SurajRKU/SE_2023_GRP12/issues?q=is%3Aissue+is%3Aclosed|
