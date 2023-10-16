@@ -1,6 +1,6 @@
-|Notes|evidence|
+|Notes|Evidence|
 |-----|---------|
-|Video|2min video of new functionality, showing a significant delta from prior.|
+
 |Workload is spread over the whole team (one team member is often Xtimes more productive than the others... 
 but nevertheless, here is a track record that everyone is contributing a lot)|evidence in GH|
 |Number of commits|in GH|
