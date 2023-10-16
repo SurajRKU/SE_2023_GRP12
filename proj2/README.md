@@ -1,11 +1,11 @@
 |Notes|evidence|
 |-----|---------|
 |Workload is spread over the whole team (one team member is often Xtimes more productive than the others... 
-but nevertheless, here is a track record that everyone is contributing a lot)|evidence in GH|
+but nevertheless, here is a track record that everyone is contributing a lot)|https://github.com/SurajRKU/SE_2023_GRP12/graphs/contributors|
 |Number of commits|in GH|
-|Number of commits: by different people|in GH|
+|Number of commits: by different people|https://github.com/SurajRKU/SE_2023_GRP12/graphs/contributors|
 |Issues reports: there are **many**|
-|Issues are being closed|evidence in GH|
+|Issues are being closed|https://github.com/SurajRKU/SE_2023_GRP12/issues?q=is%3Aissue+is%3Aclosed|
 |DOI badge: exists|in GH|
 |Docs: doco generated, format not ugly |in GH|
 |Docs: what: point descriptions of each class/function (in isolation) |
